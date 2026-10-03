@@ -159,11 +159,9 @@ sucursal del estado que registra el DENUE, así que Manzanillo y Villa de Álvar
 │   ├── procesados/                      # Resultados intermedios del ETL
 │   └── analiticos/                      # Tabla del modelo, predicciones y validación externa
 ├── figuras/                             # Las 13 figuras del notebook, una por archivo
-├── presentacion/
-│   ├── guion.md                         # Guion de la exposición (1–2 minutos)
-│   └── presentacion_ejecutiva.pptx      # 5 diapositivas
-└── docs/
-    └── Proyecto specs.pdf               # Especificación del proyecto
+└── presentacion/
+    ├── presentacion_ejecutiva.pptx      # Exposición ejecutiva, 5 diapositivas
+    └── Proyecto M4 Diego Jimenez.docx   # Resumen del proyecto para la plataforma
 ```
 
 ---
