@@ -1,0 +1,8 @@
+# Versiones con las que se ejecutó el notebook (Python 3.13.1)
+numpy==2.4.6
+pandas==3.0.3
+scipy==1.18.0
+scikit-learn==1.9.1
+matplotlib==3.11.0
+ipykernel
+notebook

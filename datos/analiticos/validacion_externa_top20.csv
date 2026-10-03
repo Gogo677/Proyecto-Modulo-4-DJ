@@ -1,0 +1,21 @@
+﻿clave_mun,rango,entidad,municipio,probabilidad,tipo_oportunidad,estado,evidencia,fuente,fecha_consulta
+18017,1,Nayarit,Tepic,0.9899519964112489,Mercado nuevo,Sin evidencia de sucursal,Sin página de sucursal en mcdonalds.com.mx,,2026-09-19
+19006,2,Nuevo León,Apodaca,0.9890926503316109,Densificación,Ya tiene McDonald's,"Plaza Citadina (Av. Concordia 801), abierta en noviembre de 2025",https://www.mcdonalds.com.mx/restaurantes/monterrey-nl/plaza-citadina-994,2026-09-19
+04002,3,Campeche,Campeche,0.9870819984181078,Mercado nuevo,Ya tiene McDonald's,Campeche F.S. (Av. Román Piña Chan 5),https://www.mcdonalds.com.mx/restaurantes/campeche,2026-09-19
+14098,4,Jalisco,San Pedro Tlaquepaque,0.9852711244335947,Densificación,No concluyente,Forum Tlaquepaque: el sitio oficial la asigna a Guadalajara,https://www.mcdonalds.com.mx/restaurantes/guadalajara/forum-tlaquepaque-762,2026-09-19
+22006,5,Querétaro,Corregidora,0.9837661165112397,Densificación,Sin evidencia de sucursal,Sin página de sucursal en mcdonalds.com.mx; las de la zona metropolitana están en Querétaro,,2026-09-19
+06007,6,Colima,Manzanillo,0.9789086049341065,Mercado nuevo,Sin evidencia de sucursal,Sin página de sucursal en mcdonalds.com.mx; la marca cerró en la ciudad de Colima en mayo de 2025,https://www.colimanoticias.com/cadenas-y-franquicias-que-se-han-ido-de-colima-por-inseguridad-economias-fluctuantes-y-nuevas-empresas/,2026-09-19
+06010,7,Colima,Villa de Álvarez,0.957244448750072,Densificación,Sin evidencia de sucursal,"Sin página de sucursal en mcdonalds.com.mx; conurbado con Colima, donde la marca cerró en 2025",https://www.colimanoticias.com/cadenas-y-franquicias-que-se-han-ido-de-colima-por-inseguridad-economias-fluctuantes-y-nuevas-empresas/,2026-09-19
+15039,8,México,Ixtapaluca,0.9542210091786769,Densificación,Ya tiene McDonald's,Carretera México-Puebla y Av. Cuauhtémoc (Col. Santa Bárbara),https://www.mcdonalds.com.mx/restaurantes/estado-de-mexico/mcdonalds-carretera-mx-puebla-927,2026-09-19
+08021,9,Chihuahua,Delicias,0.9511541101295689,Mercado nuevo,Sin evidencia de sucursal,Sin página de sucursal en mcdonalds.com.mx,,2026-09-19
+09013,10,Ciudad de México,Xochimilco,0.9477876198249084,Densificación,Sin evidencia de sucursal,Sin página de sucursal en mcdonalds.com.mx,,2026-09-19
+24035,11,San Luis Potosí,Soledad de Graciano Sánchez,0.9369222508206609,Densificación,Sin evidencia de sucursal,Sin página de sucursal en mcdonalds.com.mx; las de la zona metropolitana están en San Luis Potosí,,2026-09-19
+26055,12,Sonora,San Luis Río Colorado,0.9353228607072497,Mercado nuevo,Sin evidencia de sucursal,Sin página de sucursal en mcdonalds.com.mx,,2026-09-19
+14101,13,Jalisco,Tonalá,0.9309088039872009,Densificación,No concluyente,Río Nilo: el sitio oficial la asigna a Guadalajara; la avenida cruza ambos municipios,https://www.mcdonalds.com.mx/restaurantes/guadalajara/guadalajara-rio-nilo-517,2026-09-19
+19031,14,Nuevo León,Juárez,0.9232674665335122,Densificación,Sin evidencia de sucursal,Sin página de sucursal en mcdonalds.com.mx,,2026-09-19
+30131,15,Veracruz de Ignacio de la Llave,Poza Rica de Hidalgo,0.9064299468763026,Mercado nuevo,Sin evidencia de sucursal,Sin página de sucursal en mcdonalds.com.mx,,2026-09-19
+13069,16,Hidalgo,Tizayuca,0.8692739906988902,Densificación,Sin evidencia de sucursal,Sin página de sucursal en mcdonalds.com.mx,,2026-09-19
+15060,17,México,Nicolás Romero,0.8658614667325036,Densificación,Sin evidencia de sucursal,Sin página de sucursal en mcdonalds.com.mx,,2026-09-19
+11027,18,Guanajuato,Salamanca,0.8622720325284539,Densificación,Sin evidencia de sucursal,Sin página de sucursal en mcdonalds.com.mx,,2026-09-19
+15109,19,México,Tultitlán,0.8591730696587374,Densificación,Ya tiene McDonald's,"Tultitlán (Av. Prados esq. Praderas, San Pablo de las Salinas)",https://www.mcdonalds.com.mx/restaurantes/estado-de-mexico/tultitlan-997,2026-09-19
+15099,20,México,Texcoco,0.8582903323005232,Densificación,Ya tiene McDonald's,Patio Texcoco (Av. Hidalgo 300) y Texcoco San Pablo (Juárez Norte 304),https://cupones.mcdonalds.com.mx/restaurantes-participantes-mx,2026-09-19

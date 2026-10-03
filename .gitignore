@@ -1,0 +1,19 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# CSV descomprimidos a mano de los ZIP de INEGI (el notebook lee los ZIP directamente)
+datos/crudos/*.csv
+datos/crudos/*/
+
+# Archivos temporales de Office y del sistema
+~$*
+.~lock.*#
+Thumbs.db
+.DS_Store
+desktop.ini

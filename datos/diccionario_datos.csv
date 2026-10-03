@@ -1,0 +1,24 @@
+﻿variable,bloque,fuente,origen,tipo,nivel_medicion,unidad,descripcion
+clave_mun,Identificación,Censo 2020,ENTIDAD + MUN,Discreta,Nominal,-,Clave geoestadística de 5 dígitos del municipio (Marco Geoestadístico 2020)
+entidad,Identificación,Censo 2020,NOM_ENT,Discreta,Nominal,-,Entidad federativa
+municipio,Identificación,Censo 2020,NOM_MUN,Discreta,Nominal,-,Nombre del municipio
+localidad_principal,Identificación,Censo 2020,NOM_LOC,Discreta,Nominal,-,Localidad más poblada del municipio
+latitud,Identificación,Censo 2020,LATITUD,Continua,Intervalo,grados,Latitud decimal de la localidad más poblada (sólo para mapas y distancias)
+longitud,Identificación,Censo 2020,LONGITUD,Continua,Intervalo,grados,Longitud decimal de la localidad más poblada (sólo para mapas y distancias)
+poblacion,Demanda,Censo 2020,POBTOT,Discreta,Razón,personas,Población total
+pct_urbana,Demanda,Censo 2020,POBTOT de cada localidad,Continua,Razón,%,"Población que vive en localidades de 15,000 habitantes o más"
+pct_jovenes,Demanda,Censo 2020,P_18A24 / POBTOT,Continua,Razón,%,Población de 18 a 24 años
+escolaridad,Poder adquisitivo,Censo 2020,GRAPROES,Continua,Razón,años,Grado promedio de escolaridad de la población de 15 años y más
+pct_viv_auto,Poder adquisitivo,Censo 2020,VPH_AUTOM / TVIVPARHAB,Continua,Razón,%,Viviendas particulares habitadas con automóvil o camioneta
+pct_viv_internet,Poder adquisitivo,Censo 2020,VPH_INTER / TVIVPARHAB,Continua,Razón,%,Viviendas particulares habitadas con internet
+tasa_participacion,Empleo,Censo 2020,PEA / P_12YMAS,Continua,Razón,%,Población económicamente activa entre la población de 12 años y más
+pct_seguridad_social,Empleo,Censo 2020,(PDER_IMSS + PDER_ISTE + PDER_ISTEE) / POBTOT,Continua,Razón,%,Población afiliada al IMSS o al ISSSTE federal o estatal (aproxima el empleo formal)
+empleo_restaurantes_1k,Empleo,DENUE 05/2026,"per_ocu, clases 7225xx",Continua,Razón,"empleos por 1,000 hab.","Personal ocupado estimado en restaurantes, sin McDonald's (punto medio del estrato)"
+restaurantes_10k,Sector y turismo,DENUE 05/2026,codigo_act 7225xx,Continua,Razón,"por 10,000 hab.","Restaurantes y otros negocios de preparación de alimentos, sin McDonald's"
+pct_rest_11mas,Sector y turismo,DENUE 05/2026,"per_ocu, clases 7225xx",Continua,Razón,%,Restaurantes con 11 o más personas ocupadas
+hoteles_10k,Sector y turismo,DENUE 05/2026,codigo_act 7211xx,Continua,Razón,"por 10,000 hab.","Hoteles, moteles y similares"
+plazas_comerciales,Sector y turismo,DENUE 05/2026,"tipoCenCom, nom_CenCom",Discreta,Razón,plazas,"Centros y plazas comerciales distintos con al menos un negocio del sector 72, sin McDonald's"
+sucursales_competencia,Competencia,DENUE 05/2026,"nom_estab, raz_social",Discreta,Razón,sucursales,"Sucursales de Burger King, KFC, Carl's Jr., Domino's, Little Caesars, Pizza Hut, Starbucks y Subway"
+marcas_competencia,Competencia,DENUE 05/2026,"nom_estab, raz_social",Discreta,Razón,marcas (0 a 8),Número de cadenas rivales distintas presentes
+sucursales_mcdonalds,Objetivo,DENUE 05/2026,"nom_estab, raz_social, codigo_act",Discreta,Razón,sucursales,Sucursales de McDonald's identificadas (descriptiva; no entra al modelo)
+tiene_mcdonalds,Objetivo,DENUE 05/2026,sucursales_mcdonalds > 0,Discreta (binaria),Nominal,"1 = sí, 0 = no",Variable a predecir
